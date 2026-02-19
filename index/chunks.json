@@ -1,0 +1,482 @@
+[
+  {
+    "chunk_id": "admission:0",
+    "text": "Admissions\nAdmission and registration are subject to general conditions and other conditions applicable according to the specialization and university level.\n\n02\nSeptember\n2025\n\nNew Students\nElectronic Registration\nEvents & Announcements\nDorms",
+    "metadata": {
+      "document_id": "admission",
+      "source_file": "admission.txt",
+      "section_title": null,
+      "last_updated": "2026-01-17T11:26:38.077682",
+      "chunk_index": 0,
+      "token_count": 45
+    }
+  },
+  {
+    "chunk_id": "admission:1",
+    "text": "Procedures\nNew Students\nElectronic Registration\nEvents & Announcements\nDorms",
+    "metadata": {
+      "document_id": "admission",
+      "source_file": "admission.txt",
+      "section_title": "Procedures",
+      "last_updated": "2026-01-17T11:26:38.077682",
+      "chunk_index": 1,
+      "token_count": 17
+    }
+  },
+  {
+    "chunk_id": "admission:2",
+    "text": "E-Registration\nE-registration is the first stage of student enrollment.",
+    "metadata": {
+      "document_id": "admission",
+      "source_file": "admission.txt",
+      "section_title": "E-Registration",
+      "last_updated": "2026-01-17T11:26:38.077682",
+      "chunk_index": 2,
+      "token_count": 14
+    }
+  },
+  {
+    "chunk_id": "admission:3",
+    "text": "Apply\nNew Students\nElectronic Registration\nEvents & Announcements\nDorms",
+    "metadata": {
+      "document_id": "admission",
+      "source_file": "admission.txt",
+      "section_title": "Apply",
+      "last_updated": "2026-01-17T11:26:38.077682",
+      "chunk_index": 3,
+      "token_count": 16
+    }
+  },
+  {
+    "chunk_id": "admission:4",
+    "text": "Events & Announcements\nRegistration events",
+    "metadata": {
+      "document_id": "admission",
+      "source_file": "admission.txt",
+      "section_title": "Events & Announcements",
+      "last_updated": "2026-01-17T11:26:38.077682",
+      "chunk_index": 4,
+      "token_count": 7
+    }
+  },
+  {
+    "chunk_id": "admission:5",
+    "text": "Announcements\n10\nDecember\n2025\n\nDate of the DSLHSS doctoral entrance exam for 2026-2027\n\n09\nDecember\n2025\n\nRegistration open for new students at DSLHSS for 2026-2027\n\n06\nNovember\n2025\n\nDeadline extension for applications to the written exam at the DSLPAES for 2025-2026\n\n28\nOctober\n2025\n\nEquivalency results for LU students in the Faculty of Science for the academic year 2025-2026\n\n21\nOctober\n2025\n\nExtension of the application period for the DSLPAES written exam for 2025-2026",
+    "metadata": {
+      "document_id": "admission",
+      "source_file": "admission.txt",
+      "section_title": "Announcements",
+      "last_updated": "2026-01-17T11:26:38.077682",
+      "chunk_index": 5,
+      "token_count": 135
+    }
+  },
+  {
+    "chunk_id": "admission:6",
+    "text": "All Announcements\nNew Students\nElectronic Registration\nEvents & Announcements\nDorms",
+    "metadata": {
+      "document_id": "admission",
+      "source_file": "admission.txt",
+      "section_title": "All Announcements",
+      "last_updated": "2026-01-17T11:26:38.077682",
+      "chunk_index": 6,
+      "token_count": 18
+    }
+  },
+  {
+    "chunk_id": "admission:7",
+    "text": "Dorms\nUndergraduate students enrolled in one of the faculties in the Rafik Hariri University Compound \u2013 Hadath, have the right to submit a request to reside in the dorms.\n\nAcceptance of applications is subject to a list of priorities and criteria contained in the relevant bylaws.",
+    "metadata": {
+      "document_id": "admission",
+      "source_file": "admission.txt",
+      "section_title": "Dorms",
+      "last_updated": "2026-01-17T11:26:38.077682",
+      "chunk_index": 7,
+      "token_count": 59
+    }
+  },
+  {
+    "chunk_id": "admission:8",
+    "text": "Apply\nDorms and affiliated facilities are managed administratively and organizationally by the Office of University Campus Affairs, and are subject to the bylaws stipulated in Resolution No.\n\n2784 dated 10/11/2004 and the laws and regulations issued by the University Presidency.\n\nGeneral Conditions\nFirst:\nNature of study or major in which the student is registered and the attendance system;\nGeographical distance of the student main residence from the center of the campus;\nStudent marks in the baccalaureate certificate for first-year students, or marks in the Competitive Entrance Exam (CEE) or in the faculty of affiliation.\n\nSecond:\nThe application for residence in the dorms shall be filled out electronically in the Arabic language exclusively, all required information shall be included therein and the following documents shall be attached:\n\nOld students (residing in dorms and who did not exceed the third academic year and did not reside more than three years):\nStatement of success;\nCopy of registration card from the faculty to which the student is affiliated.\n\nNew students:\nStatement or copy of registration card or receipt stating that registration fees have been paid in one of the faculties of the Lebanese University;",
+    "metadata": {
+      "document_id": "admission",
+      "source_file": "admission.txt",
+      "section_title": "Apply",
+      "last_updated": "2026-01-17T11:26:38.077682",
+      "chunk_index": 8,
+      "token_count": 233
+    }
+  },
+  {
+    "chunk_id": "admission:9",
+    "text": "and the following documents shall be attached:\n\nOld students (residing in dorms and who did not exceed the third academic year and did not reside more than three years):\nStatement of success;\nCopy of registration card from the faculty to which the student is affiliated.\n\nNew students:\nStatement or copy of registration card or receipt stating that registration fees have been paid in one of the faculties of the Lebanese University;\n\nOr\nCopy of the candidacy document for the CEE to one of the faculties of the Lebanese University;\nExtract of certified personal civil status record (not exceeding one year);\nRecent certified ID photo;\nHousing statement for the current academic year;\nHealth certificate stating that the student is free of communicable and contagious diseases;\nStatement of blood group;\nStatement proving that the applicant is the son/daughter of an employee, if one of the parents is a professor or an employee at the university, provided that the distance of residence is not less than 30 km;\nBaccalaureate certificate or official statement of success for first-year students who do not undergo a CEE, or a statement of success from the faculty to which the student is affiliated with the average/20 for students registered at the Lebanese University.\n\nThird\nAny application that does not meet the above conditions or contains incorrect information will be rejected.\n\nApplications shall be rejected for:\nStudents who have completed their major, registered in a second major, or resided for three years in the dorms;\nStudents over the age of twenty-five, with the exception of students residing under a cultural exchange with their countries, provided that the approval of the university presidency is obtained;\nStudents who failed twice during the period of completing their majors.\n\nFourth:\nApplications are submitted electronically at the following website (www.ul.edu.lb);\nUpon completing the application, an email will be sent to the applicant with the required documents and the electronic referral number at the Office of University Campus Affairs.",
+    "metadata": {
+      "document_id": "admission",
+      "source_file": "admission.txt",
+      "section_title": "Apply",
+      "last_updated": "2026-01-17T11:26:38.077682",
+      "chunk_index": 9,
+      "token_count": 382
+    }
+  },
+  {
+    "chunk_id": "admission:10",
+    "text": "students residing under a cultural exchange with their countries, provided that the approval of the university presidency is obtained;\nStudents who failed twice during the period of completing their majors.\n\nFourth:\nApplications are submitted electronically at the following website (www.ul.edu.lb);\nUpon completing the application, an email will be sent to the applicant with the required documents and the electronic referral number at the Office of University Campus Affairs.\n\nFifth:\nNames of candidates accepted to reside in dorms shall be announced on a date determined by the Office of University Campus Affairs and published on the notice boards and on the Lebanese University website (www.ul.edu.lb).",
+    "metadata": {
+      "document_id": "admission",
+      "source_file": "admission.txt",
+      "section_title": "Apply",
+      "last_updated": "2026-01-17T11:26:38.077682",
+      "chunk_index": 10,
+      "token_count": 124
+    }
+  },
+  {
+    "chunk_id": "foreign-students:0",
+    "text": "Foreign Students\nRequired Documents\nProcedures\nEnrollment Fees\nCEE",
+    "metadata": {
+      "document_id": "foreign-students",
+      "source_file": "foreign-students.txt",
+      "section_title": "Foreign Students",
+      "last_updated": "2026-01-17T11:26:38.082685",
+      "chunk_index": 0,
+      "token_count": 14
+    }
+  },
+  {
+    "chunk_id": "foreign-students:1",
+    "text": "Required Documents\nNon-Lebanese students are accepted on the basis of high school certificates giving them access to higher education in their country, provided that they are equivalent to the Lebanese Baccalaureate;\nCertified copy of passport;\nLebanese Baccalaureate or the equivalent thereof and a copy certified by the Ministry of Education & Higher Education;\n(2) two certified ID photos;\nPostal stamp of LBP 50,000;\nCompetitive Entrance Exam (CEE) registration fee, if any.\n\nRequired Documents\nProcedures\nEnrollment Fees\nCEE",
+    "metadata": {
+      "document_id": "foreign-students",
+      "source_file": "foreign-students.txt",
+      "section_title": "Required Documents",
+      "last_updated": "2026-01-17T11:26:38.082685",
+      "chunk_index": 1,
+      "token_count": 114
+    }
+  },
+  {
+    "chunk_id": "foreign-students:2",
+    "text": "Procedures\nStudents are only enrolled within the deadlines set each year by the faculty or institute administration.\n\nOnline admission: In faculties open for online admissions, and after filling in the form, the candidate views all documents required and appropriate for his/her personal status (http://sisol.ul.edu.lb/Login).\n\nIn-person admission: The enrollment application is submitted with all supporting documents to the relevant faculty or institute administration;\nThe student shall attend in person to follow-up the enrollment process.\n\nIf non-Lebanese students are unable to attend in person, one of their parents, siblings, or embassies of their countries in Beirut can follow-up the process under an official POA issued by the student and certified by the Lebanese Consulate in the foreign country and the Lebanese Ministry of Foreign Affairs.\n\nThe POA shall include an authorization to perform enrollment process and receive the required university card and affidavits.\n\nIf the student is a minor, the POA is submitted on his behalf by his/her legal guardian.\n\nNote: The student shall adhere to the university\u2019s laws and the regulations of the relevant faculty.\n\nRequired Documents\nProcedures\nEnrollment Fees\nCEE",
+    "metadata": {
+      "document_id": "foreign-students",
+      "source_file": "foreign-students.txt",
+      "section_title": "Procedures",
+      "last_updated": "2026-01-17T11:26:38.082685",
+      "chunk_index": 2,
+      "token_count": 229
+    }
+  },
+  {
+    "chunk_id": "foreign-students:3",
+    "text": "Enrollment Fees\nThe enrollment fees are paid in one installment as follows:",
+    "metadata": {
+      "document_id": "foreign-students",
+      "source_file": "foreign-students.txt",
+      "section_title": "Enrollment Fees",
+      "last_updated": "2026-01-17T11:26:38.082685",
+      "chunk_index": 3,
+      "token_count": 15
+    }
+  },
+  {
+    "chunk_id": "foreign-students:4",
+    "text": "Applied Faculties & Institutes:\n1- Bachelor:\nLebanese & Palestinian students: LBP 13.235.000\nArab & Foreign students: LBP 60.735.000\nNSSF Fees: LBP 8.400.000.\n\nCEE Test Fees: LBP 500.000.\n\nAdmission Test Fees: LBP 500.000.\n\nForeign Language Training Fee: LBP 50.000\n\n2- Master's & Postgraduate Studies:\nLebanese & Palestinian students: LBP 18.235.000\nArab & Foreign students: LBP 100.735.000\nSpecialized Graduate Studies Fees at the Faculty of Engineering for all students: LBP 45.000.000\n\nLebanese, Palestinian, Arab & Foreign students:\nNSSF Fees: LBP 8.400.000.\n\n3- PhD:\nLebanese & Palestinian students: LBP 23.235.000\nArab & Foreign students: LBP 300.735.000\nNSSF Fees: LBP 8.400.000.\nCEE Test Fees: LBP 500.000.\n\nNon-Applied Faculties & Institutes:\nFaculty of Letters & Human Sciences - Faculty of Law, Political & Administrative Sciences - Institute of Social Science\n\n1- Bachelor:\nLebanese & Palestinian students: LBP 13.085.000\nArab & Foreign students: LBP 60.585.000\nNSSF Fees: LBP 8.400.000.\nForeign Language Training Fee: LBP 50.000.\n\n2- Master:\nLebanese & Palestinian students: LBP 18.085.000\nArab & Foreign students: LBP 100.585.000\nNSSF Fees: LBP 8.400.000.\nForeign Language Training Fee: LBP 50.000.",
+    "metadata": {
+      "document_id": "foreign-students",
+      "source_file": "foreign-students.txt",
+      "section_title": "Applied Faculties & Institutes:",
+      "last_updated": "2026-01-17T11:26:38.082685",
+      "chunk_index": 4,
+      "token_count": 387
+    }
+  },
+  {
+    "chunk_id": "foreign-students:5",
+    "text": "BP 8.400.000.\nForeign Language Training Fee: LBP 50.000.\n\n2- Master:\nLebanese & Palestinian students: LBP 18.085.000\nArab & Foreign students: LBP 100.585.000\nNSSF Fees: LBP 8.400.000.\nForeign Language Training Fee: LBP 50.000.\n\n3- PhD:\nLebanese & Palestinian students: LBP 23.085.000\nArab & Foreign students: LBP 300.585.000\nNSSF Fees: LBP 8.400.000.\n\nIt is worth mentioning that the registration fee for the entrance exam or membership test is LBP 500,000.\n\nRequired Documents\nProcedures\nEnrollment Fees\nCEE",
+    "metadata": {
+      "document_id": "foreign-students",
+      "source_file": "foreign-students.txt",
+      "section_title": "Applied Faculties & Institutes:",
+      "last_updated": "2026-01-17T11:26:38.082685",
+      "chunk_index": 5,
+      "token_count": 162
+    }
+  },
+  {
+    "chunk_id": "foreign-students:6",
+    "text": "CEE\nThe conditions for the CEE vary according to the faculty and major, so please select the major to learn about its conditions.",
+    "metadata": {
+      "document_id": "foreign-students",
+      "source_file": "foreign-students.txt",
+      "section_title": "CEE",
+      "last_updated": "2026-01-17T11:26:38.082685",
+      "chunk_index": 6,
+      "token_count": 27
+    }
+  },
+  {
+    "chunk_id": "high-school-students:0",
+    "text": "High School Students\nRequired Documents\nProcedures\nEnrollment Fees\nCEE",
+    "metadata": {
+      "document_id": "high-school-students",
+      "source_file": "high-school-students.txt",
+      "section_title": "High School Students",
+      "last_updated": "2026-01-17T11:26:38.107685",
+      "chunk_index": 0,
+      "token_count": 15
+    }
+  },
+  {
+    "chunk_id": "high-school-students:1",
+    "text": "Required Documents\nLebanese Baccalaureate or the equivalent thereof and a copy certified by the Ministry of Education & Higher Education;\nA personal civil status record dating not more than 3 months or ID photo (Lebanese students);\n(2) two certified ID photos;\nAffidavit or copy of a card proving that the student benefits from the Lebanese Social Security, if any;\nPostal stamp of LBP 50,000;\nCompetitive Entrance Exam (CEE) registration fee, if any.\n\nRequired Documents\nProcedures\nEnrollment Fees\nCEE",
+    "metadata": {
+      "document_id": "high-school-students",
+      "source_file": "high-school-students.txt",
+      "section_title": "Required Documents",
+      "last_updated": "2026-01-17T11:26:38.107685",
+      "chunk_index": 1,
+      "token_count": 113
+    }
+  },
+  {
+    "chunk_id": "high-school-students:2",
+    "text": "Procedures\nStudents are only enrolled within the deadlines set each year by the faculty or institute administration.\n\nOnline admission: In faculties open for online admissions, and after filling in the form, the candidate views all documents required and appropriate for his/her personal status (http://sisol.ul.edu.lb/Login).\n\nIn-person admission: The enrollment application is submitted with all supporting documents to the relevant faculty or institute administration;\nThe student shall attend in person to follow-up the enrollment process.\n\nIf non-Lebanese students are unable to attend in person, one of their parents, siblings, or embassies of their countries in Beirut can follow-up the process under an official POA issued by the student and certified by the Lebanese Consulate in the foreign country and the Lebanese Ministry of Foreign Affairs.\n\nThe POA shall include an authorization to perform enrollment process and receive the required university card and affidavits.\n\nIf the student is a minor, the POA is submitted on his behalf by his/her legal guardian.\n\nNote: The student shall adhere to the university\u2019s laws and the regulations of the relevant faculty.\n\nRequired Documents\nProcedures\nEnrollment Fees\nCEE",
+    "metadata": {
+      "document_id": "high-school-students",
+      "source_file": "high-school-students.txt",
+      "section_title": "Procedures",
+      "last_updated": "2026-01-17T11:26:38.107685",
+      "chunk_index": 2,
+      "token_count": 229
+    }
+  },
+  {
+    "chunk_id": "high-school-students:3",
+    "text": "Enrollment Fees\nThe enrollment fees are paid in one installment as follows:",
+    "metadata": {
+      "document_id": "high-school-students",
+      "source_file": "high-school-students.txt",
+      "section_title": "Enrollment Fees",
+      "last_updated": "2026-01-17T11:26:38.107685",
+      "chunk_index": 3,
+      "token_count": 15
+    }
+  },
+  {
+    "chunk_id": "high-school-students:4",
+    "text": "Applied Faculties & Institutes:\n1- Bachelor:\nLebanese & Palestinian students: LBP 13.235.000\nArab & Foreign students: LBP 60.735.000\nNSSF Fees: LBP 8.400.000.\n\nCEE Test Fees: LBP 500.000.\n\nAdmission Test Fees: LBP 500.000.\n\nForeign Language Training Fee: LBP 50.000\n\n2- Master's & Postgraduate Studies:\nLebanese & Palestinian students: LBP 18.235.000\nArab & Foreign students: LBP 100.735.000\nSpecialized Graduate Studies Fees at the Faculty of Engineering for all students: LBP 45.000.000\n\nLebanese, Palestinian, Arab & Foreign students:\nNSSF Fees: LBP 8.400.000.\n\n3- PhD:\nLebanese & Palestinian students: LBP 23.235.000\nArab & Foreign students: LBP 300.735.000\nNSSF Fees: LBP 8.400.000.\nCEE Test Fees: LBP 500.000.\n\nNon-Applied Faculties & Institutes:\nFaculty of Letters & Human Sciences - Faculty of Law, Political & Administrative Sciences - Institute of Social Science\n\n1- Bachelor:\nLebanese & Palestinian students: LBP 13.085.000\nArab & Foreign students: LBP 60.585.000\nNSSF Fees: LBP 8.400.000.\nForeign Language Training Fee: LBP 50.000.\n\n2- Master:\nLebanese & Palestinian students: LBP 18.085.000\nArab & Foreign students: LBP 100.585.000\nNSSF Fees: LBP 8.400.000.\nForeign Language Training Fee: LBP 50.000.",
+    "metadata": {
+      "document_id": "high-school-students",
+      "source_file": "high-school-students.txt",
+      "section_title": "Applied Faculties & Institutes:",
+      "last_updated": "2026-01-17T11:26:38.107685",
+      "chunk_index": 4,
+      "token_count": 387
+    }
+  },
+  {
+    "chunk_id": "high-school-students:5",
+    "text": "BP 8.400.000.\nForeign Language Training Fee: LBP 50.000.\n\n2- Master:\nLebanese & Palestinian students: LBP 18.085.000\nArab & Foreign students: LBP 100.585.000\nNSSF Fees: LBP 8.400.000.\nForeign Language Training Fee: LBP 50.000.\n\n3- PhD:\nLebanese & Palestinian students: LBP 23.085.000\nArab & Foreign students: LBP 300.585.000\nNSSF Fees: LBP 8.400.000.\n\nIt is worth mentioning that the registration fee for the entrance exam or membership test is LBP 500,000.\n\nRequired Documents\nProcedures\nEnrollment Fees\nCEE",
+    "metadata": {
+      "document_id": "high-school-students",
+      "source_file": "high-school-students.txt",
+      "section_title": "Applied Faculties & Institutes:",
+      "last_updated": "2026-01-17T11:26:38.107685",
+      "chunk_index": 5,
+      "token_count": 162
+    }
+  },
+  {
+    "chunk_id": "high-school-students:6",
+    "text": "CEE\nThe conditions for the CEE vary according to the faculty and major, so please select the major to learn about its conditions.",
+    "metadata": {
+      "document_id": "high-school-students",
+      "source_file": "high-school-students.txt",
+      "section_title": "CEE",
+      "last_updated": "2026-01-17T11:26:38.107685",
+      "chunk_index": 6,
+      "token_count": 27
+    }
+  },
+  {
+    "chunk_id": "lebanese-university-students:0",
+    "text": "Lebanese University Students\nRequired Documents\nProcedures\nEnrollment Fees\nCEE",
+    "metadata": {
+      "document_id": "lebanese-university-students",
+      "source_file": "lebanese-university-students.txt",
+      "section_title": "Lebanese University Students",
+      "last_updated": "2026-01-17T11:26:38.133683",
+      "chunk_index": 0,
+      "token_count": 17
+    }
+  },
+  {
+    "chunk_id": "lebanese-university-students:1",
+    "text": "Required Documents\nLebanese Baccalaureate or the equivalent thereof and a copy certified by the Ministry of Education & Higher Education;\nA personal civil status record dating not more than 3 months or ID photo (Lebanese students);\n(2) two certified ID photos;\nAffidavit or copy of a card proving that the student benefits from the Lebanese Social Security, if any;\nPostal stamp of LBP 50,000;\nCompetitive Entrance Exam (CEE) registration fee, if any.\n\nRequired Documents\nProcedures\nEnrollment Fees\nCEE",
+    "metadata": {
+      "document_id": "lebanese-university-students",
+      "source_file": "lebanese-university-students.txt",
+      "section_title": "Required Documents",
+      "last_updated": "2026-01-17T11:26:38.133683",
+      "chunk_index": 1,
+      "token_count": 113
+    }
+  },
+  {
+    "chunk_id": "lebanese-university-students:2",
+    "text": "Procedures\nStudents are only enrolled within the deadlines set each year by the faculty or institute administration.\n\nOnline admission: In faculties open for online admissions, and after filling in the form, the candidate views all documents required and appropriate for his/her personal status (http://sisol.ul.edu.lb/Login).\n\nIn-person admission: The enrollment application is submitted with all supporting documents to the relevant faculty or institute administration;\nThe student shall attend in person to follow-up the enrollment process.\n\nIf non-Lebanese students are unable to attend in person, one of their parents, siblings, or embassies of their countries in Beirut can follow-up the process under an official POA issued by the student and certified by the Lebanese Consulate in the foreign country and the Lebanese Ministry of Foreign Affairs.\n\nThe POA shall include an authorization to perform enrollment process and receive the required university card and affidavits.\n\nIf the student is a minor, the POA is submitted on his behalf by his/her legal guardian.\n\nNote: The student shall adhere to the university\u2019s laws and the regulations of the relevant faculty.\n\nRequired Documents\nProcedures\nEnrollment Fees\nCEE",
+    "metadata": {
+      "document_id": "lebanese-university-students",
+      "source_file": "lebanese-university-students.txt",
+      "section_title": "Procedures",
+      "last_updated": "2026-01-17T11:26:38.133683",
+      "chunk_index": 2,
+      "token_count": 229
+    }
+  },
+  {
+    "chunk_id": "lebanese-university-students:3",
+    "text": "Enrollment Fees\nThe enrollment fees are paid in one installment as follows:",
+    "metadata": {
+      "document_id": "lebanese-university-students",
+      "source_file": "lebanese-university-students.txt",
+      "section_title": "Enrollment Fees",
+      "last_updated": "2026-01-17T11:26:38.133683",
+      "chunk_index": 3,
+      "token_count": 15
+    }
+  },
+  {
+    "chunk_id": "lebanese-university-students:4",
+    "text": "Applied Faculties & Institutes:\n1- Bachelor:\nLebanese & Palestinian students: LBP 13.235.000\nArab & Foreign students: LBP 60.735.000\nNSSF Fees: LBP 8.400.000.\n\nCEE Test Fees: LBP 500.000.\n\nAdmission Test Fees: LBP 500.000.\n\nForeign Language Training Fee: LBP 50.000\n\n2- Master's & Postgraduate Studies:\nLebanese & Palestinian students: LBP 18.235.000\nArab & Foreign students: LBP 100.735.000\nSpecialized Graduate Studies Fees at the Faculty of Engineering for all students: LBP 45.000.000\n\nLebanese, Palestinian, Arab & Foreign students:\nNSSF Fees: LBP 8.400.000.\n\n3- PhD:\nLebanese & Palestinian students: LBP 23.235.000\nArab & Foreign students: LBP 300.735.000\nNSSF Fees: LBP 8.400.000.\nCEE Test Fees: LBP 500.000.\n\nNon-Applied Faculties & Institutes:\nFaculty of Letters & Human Sciences - Faculty of Law, Political & Administrative Sciences - Institute of Social Science\n\n1- Bachelor:\nLebanese & Palestinian students: LBP 13.085.000\nArab & Foreign students: LBP 60.585.000\nNSSF Fees: LBP 8.400.000.\nForeign Language Training Fee: LBP 50.000.\n\n2- Master:\nLebanese & Palestinian students: LBP 18.085.000\nArab & Foreign students: LBP 100.585.000\nNSSF Fees: LBP 8.400.000.\nForeign Language Training Fee: LBP 50.000.",
+    "metadata": {
+      "document_id": "lebanese-university-students",
+      "source_file": "lebanese-university-students.txt",
+      "section_title": "Applied Faculties & Institutes:",
+      "last_updated": "2026-01-17T11:26:38.133683",
+      "chunk_index": 4,
+      "token_count": 387
+    }
+  },
+  {
+    "chunk_id": "lebanese-university-students:5",
+    "text": "BP 8.400.000.\nForeign Language Training Fee: LBP 50.000.\n\n2- Master:\nLebanese & Palestinian students: LBP 18.085.000\nArab & Foreign students: LBP 100.585.000\nNSSF Fees: LBP 8.400.000.\nForeign Language Training Fee: LBP 50.000.\n\n3- PhD:\nLebanese & Palestinian students: LBP 23.085.000\nArab & Foreign students: LBP 300.585.000\nNSSF Fees: LBP 8.400.000.\n\nIt is worth mentioning that the registration fee for the entrance exam or membership test is LBP 500,000.\n\nRequired Documents\nProcedures\nEnrollment Fees\nCEE",
+    "metadata": {
+      "document_id": "lebanese-university-students",
+      "source_file": "lebanese-university-students.txt",
+      "section_title": "Applied Faculties & Institutes:",
+      "last_updated": "2026-01-17T11:26:38.133683",
+      "chunk_index": 5,
+      "token_count": 162
+    }
+  },
+  {
+    "chunk_id": "lebanese-university-students:6",
+    "text": "CEE\nThe conditions for the CEE vary according to the faculty and major, so please select the major to learn about its conditions.",
+    "metadata": {
+      "document_id": "lebanese-university-students",
+      "source_file": "lebanese-university-students.txt",
+      "section_title": "CEE",
+      "last_updated": "2026-01-17T11:26:38.133683",
+      "chunk_index": 6,
+      "token_count": 27
+    }
+  },
+  {
+    "chunk_id": "private-university-students:0",
+    "text": "Private University Students\nRequired Documents\nProcedures\nEnrollment Fees\nCEE",
+    "metadata": {
+      "document_id": "private-university-students",
+      "source_file": "private-university-students.txt",
+      "section_title": "Private University Students",
+      "last_updated": "2026-01-17T11:26:38.155683",
+      "chunk_index": 0,
+      "token_count": 15
+    }
+  },
+  {
+    "chunk_id": "private-university-students:1",
+    "text": "Required Documents\nLebanese Baccalaureate or the equivalent thereof and a copy certified by the Ministry of Education & Higher Education;\nA personal civil status record dating not more than 3 months or ID photo (Lebanese students);\n(2) two certified ID photos;\nAffidavit or copy of a card proving that the student benefits from the Lebanese Social Security, if any;\nPostal stamp of LBP 50,000;\nCompetitive Entrance Exam (CEE) registration fee, if any;\nEach faculty or institute, in accordance with its respective regulations, may accept students from other universities, provided that the documents required for registration are duly certified.\n\nRequired Documents\nProcedures\nEnrollment Fees\nCEE",
+    "metadata": {
+      "document_id": "private-university-students",
+      "source_file": "private-university-students.txt",
+      "section_title": "Required Documents",
+      "last_updated": "2026-01-17T11:26:38.155683",
+      "chunk_index": 1,
+      "token_count": 143
+    }
+  },
+  {
+    "chunk_id": "private-university-students:2",
+    "text": "Procedures\nStudents are only enrolled within the deadlines set each year by the faculty or institute administration.\n\nOnline admission: In faculties open for online admissions, and after filling in the form, the candidate views all documents required and appropriate for his/her personal status (http://sisol.ul.edu.lb/Login)\nIn-person admission: The enrollment application is submitted with all supporting documents to the relevant faculty or institute administration;\nThe student shall attend in person to follow-up the enrollment process.\n\nIf non-Lebanese students are unable to attend in person, one of their parents, siblings, or embassies of their countries in Beirut can follow-up the process under an official POA issued by the student and certified by the Lebanese Consulate in the foreign country and the Lebanese Ministry of Foreign Affairs.\n\nThe POA shall include an authorization to perform enrollment process and receive the required university card and affidavits.\n\nIf the student is a minor, the POA is submitted on his behalf by his/her legal guardian.\n\nNote: The student shall adhere to the university\u2019s laws and the regulations of the relevant faculty.\n\nRequired Documents\nProcedures\nEnrollment Fees\nCEE",
+    "metadata": {
+      "document_id": "private-university-students",
+      "source_file": "private-university-students.txt",
+      "section_title": "Procedures",
+      "last_updated": "2026-01-17T11:26:38.155683",
+      "chunk_index": 2,
+      "token_count": 229
+    }
+  },
+  {
+    "chunk_id": "private-university-students:3",
+    "text": "Enrollment Fees\nThe enrollment fees are paid in one installment as follows:",
+    "metadata": {
+      "document_id": "private-university-students",
+      "source_file": "private-university-students.txt",
+      "section_title": "Enrollment Fees",
+      "last_updated": "2026-01-17T11:26:38.155683",
+      "chunk_index": 3,
+      "token_count": 15
+    }
+  },
+  {
+    "chunk_id": "private-university-students:4",
+    "text": "Applied Faculties & Institutes:\n1- Bachelor:\nLebanese & Palestinian students: LBP 13.235.000\nArab & Foreign students: LBP 60.735.000\nNSSF Fees: LBP 8.400.000.\n\nCEE Test Fees: LBP 500.000.\n\nAdmission Test Fees: LBP 500.000.\n\nForeign Language Training Fee: LBP 50.000\n\n2- Master's & Postgraduate Studies:\nLebanese & Palestinian students: LBP 18.235.000\nArab & Foreign students: LBP 100.735.000\nSpecialized Graduate Studies Fees at the Faculty of Engineering for all students: LBP 45.000.000\n\nLebanese, Palestinian, Arab & Foreign students:\nNSSF Fees: LBP 8.400.000.\n\n3- PhD:\nLebanese & Palestinian students: LBP 23.235.000\nArab & Foreign students: LBP 300.735.000\nNSSF Fees: LBP 8.400.000.\nCEE Test Fees: LBP 500.000.\n\nNon-Applied Faculties & Institutes:\nFaculty of Letters & Human Sciences - Faculty of Law, Political & Administrative Sciences - Institute of Social Science\n\n1- Bachelor:\nLebanese & Palestinian students: LBP 13.085.000\nArab & Foreign students: LBP 60.585.000\nNSSF Fees: LBP 8.400.000.\nForeign Language Training Fee: LBP 50.000.\n\n2- Master:\nLebanese & Palestinian students: LBP 18.085.000\nArab & Foreign students: LBP 100.585.000\nNSSF Fees: LBP 8.400.000.\nForeign Language Training Fee: LBP 50.000.",
+    "metadata": {
+      "document_id": "private-university-students",
+      "source_file": "private-university-students.txt",
+      "section_title": "Applied Faculties & Institutes:",
+      "last_updated": "2026-01-17T11:26:38.155683",
+      "chunk_index": 4,
+      "token_count": 387
+    }
+  },
+  {
+    "chunk_id": "private-university-students:5",
+    "text": "BP 8.400.000.\nForeign Language Training Fee: LBP 50.000.\n\n2- Master:\nLebanese & Palestinian students: LBP 18.085.000\nArab & Foreign students: LBP 100.585.000\nNSSF Fees: LBP 8.400.000.\nForeign Language Training Fee: LBP 50.000.\n\n3- PhD:\nLebanese & Palestinian students: LBP 23.085.000\nArab & Foreign students: LBP 300.585.000\nNSSF Fees: LBP 8.400.000.\n\nIt is worth mentioning that the registration fee for the entrance exam or membership test is LBP 500,000.\n\nRequired Documents\nProcedures\nEnrollment Fees\nCEE",
+    "metadata": {
+      "document_id": "private-university-students",
+      "source_file": "private-university-students.txt",
+      "section_title": "Applied Faculties & Institutes:",
+      "last_updated": "2026-01-17T11:26:38.155683",
+      "chunk_index": 5,
+      "token_count": 162
+    }
+  },
+  {
+    "chunk_id": "private-university-students:6",
+    "text": "CEE\nThe conditions for the CEE vary according to the faculty and major, so please select the major to learn about its conditions.",
+    "metadata": {
+      "document_id": "private-university-students",
+      "source_file": "private-university-students.txt",
+      "section_title": "CEE",
+      "last_updated": "2026-01-17T11:26:38.155683",
+      "chunk_index": 6,
+      "token_count": 27
+    }
+  },
+  {
+    "chunk_id": "requirements:0",
+    "text": "faiss-cpu\nnumpy\nopenai\nsentence-transformers\ntiktoken",
+    "metadata": {
+      "document_id": "requirements",
+      "source_file": "requirements.txt",
+      "section_title": null,
+      "last_updated": "2026-01-17T19:29:06.981743",
+      "chunk_index": 0,
+      "token_count": 17
+    }
+  }
+]
